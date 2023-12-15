@@ -16,7 +16,7 @@ ROCK 3B 的 OTG 接口位于处于上方的 USB 3.0 接口，如果需要进入 
 ![device](/img/rock3/3b/rock3b-otg.webp)
 
 2. 使用 USB-A 转 USB-A 线从 OTG 端口连接 PC 主机
-3. 短接 Maskrom 引脚，其位于 USB 3.0 座子和以太网中间，如附图所示
+3. 短接 Maskrom 和 SPI 引脚，其位于 USB 3.0 座子和以太网中间，如附图所示
 
 ![Maskrom](/img/rock3/3b/rock3b-maskrom.webp)
 
